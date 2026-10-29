@@ -1,0 +1,3 @@
+0.2.1 Pre-Alpha:
+Made a fast patch beacuse of the lack of an IVA causing the lander to no be able to eject tiny kerbals in course of the sun
+so we putted a VR set that makes him feel in a more, "common" place instead of the moldy can capsule
